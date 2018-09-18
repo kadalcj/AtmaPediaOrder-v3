@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "412650128156",
+    "firebase_url": "https://atmapediaorder.firebaseio.com",
+    "project_id": "atmapediaorder",
+    "storage_bucket": "atmapediaorder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412650128156:android:89360572eead9233",
+        "android_client_info": {
+          "package_name": "id.ac.uajy.atmapediaorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412650128156-9ulbnk41j0ruoqu6v6v8kgaop12f6oiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.ac.uajy.atmapediaorder",
+            "certificate_hash": "b3a57f97b38e051ac5feb7c1b29f745293a98110"
+          }
+        },
+        {
+          "client_id": "412650128156-125olg6ql375vkr2vo9phqjaua8bd3cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2sH2StyLyFknz8wJt7sdi862zTEV22S4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412650128156-125olg6ql375vkr2vo9phqjaua8bd3cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
